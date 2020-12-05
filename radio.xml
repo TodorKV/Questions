@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<radio label="Q123">
+    <a>tex123t</a>
+    <row label="r1">row 1</row>
+    <row label="r2">row 2</row>
+    <col label="c1">col 1</col>
+</radio>
